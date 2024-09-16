@@ -1,2 +1,9 @@
 Format For Branches:
 
+The main repository should consist of all the subsystems, a testing branch, and the comp ready branch which should just be the master branch in case the repository gets nuked.
+Pull requests should be from the respective subsystem because then we will merge all of them into the testing branch.
+No dev prefix either.
+This serve as the final versions of each subsystems and the transition into the competetion ready branch.
+Fork names should be (subsystem)-(Your in real life name) because I will not remember your username.
+Very well github trained personnel that have two or more years on the team can use the github.
+Both requirements must be met.
