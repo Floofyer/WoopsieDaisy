@@ -13,3 +13,4 @@ Format For Commits:
 For Quick/Small commits(Always commit at the end of every meeting): 
 
 (Subject)
+
