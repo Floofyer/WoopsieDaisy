@@ -7,5 +7,6 @@ This will make sure all the files are tracked.
 In order to make sure you are not overloaded with 100 files.
 Click on settings in the bottom left > extensions > click on local history > settings key in the bottom right of local history > extension settings > open settings (json) in the top right
 Once in there, put.
+Expectations:
   "local-history.daysLimit":2,
   "local-history.saveDelay":  10,
